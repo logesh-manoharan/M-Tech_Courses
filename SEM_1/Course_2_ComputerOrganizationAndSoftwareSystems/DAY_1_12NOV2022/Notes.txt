@@ -2,3 +2,134 @@
 
 # DAY 1
 
+	Initially Computers were used for Data Processing.
+
+
+
+	Telemetry - Measurement from a Distance
+	
+	DataBase
+		RDBMS
+	
+	Data Mining
+	
+	Data analysis
+	
+	Cloud Computing (Analyse the Data From the Cloud)
+	
+	Data Science
+	
+	AI & ML
+	
+
+
+
+	Assessment Pattern:
+	
+		Quizzes - 5%  (Duration 30 mins)
+		
+		Assignment - 25% (2 Assignments)
+			
+			Lab Assignments:
+				Platifi
+		
+		MID Sem and Comprehensive Exam - Open Book
+	
+	
+	
+	
+	
+	
+	Describe Computer?
+	
+	Hardware Organisation of Computer:
+	
+		Bus 
+			Holds 	-Address Bus
+					-Data Bus
+					-Control Bus
+		
+		
+		System Bus 
+		IO Bus (USB, Graphics Adapter)
+		Memory Bus (Main Memory)
+	
+	
+	von neumann's Architecture:
+		
+		Single path between CPU and main memory is called von neumann's Bottleneck.
+	
+	
+	Harvard's Architecture:
+	
+	
+	
+	Instruction Cycle Diagram:
+	
+		Instruction execution:
+			-Fetch
+			-Execute
+	
+	
+	Fetch Cycle
+	
+	Execute Cycle
+	
+		Processor -> Memory
+		Processor -> I/O
+		Data Processing
+		Control
+		Combination of above
+		
+	Interrupt Cycle
+	
+	
+	Program Flow Control
+	
+	
+	Type of Interrupts:
+	
+		Program
+		Timer
+		I/O
+		Hardware failure
+		
+		
+	Memory Hierarchy:
+		Register
+		Cache (L1 (nearer to CPU), L2, L3)
+		Main Memory (DRAM)
+		Local Storage
+		Remote Storage
+		
+	
+	Operating System:
+	
+		- intermediary between users of a computer and the computer hardware.
+		
+		3 main functions:
+			Resource Management
+			Establish an User Interface
+			Execute and provide services for application software.
+			
+		OS Operations:
+		
+		
+		Running a Hello.c program:
+		
+			Preprocessor -> Compiler -> Assembler -> Linker
+			
+
+	KERNEL:
+				
+		One program that is running in computer all time is KERNEL.
+		
+	Bootstrap program is loaded at POWER-UP or REBOOT.
+	
+	Firmware - typically stored in ROM or EPROM.
+	
+	
+	
+	
+	https://teach-sim.com
+	
