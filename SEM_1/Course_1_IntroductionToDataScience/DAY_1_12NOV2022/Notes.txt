@@ -1,0 +1,117 @@
+## INTRODUCTION TO DATA SCIENCE
+
+# DAY - 1
+
+	seetha.p@pilani.bits-pilani.ac.in
+	
+	
+	Some Websites used in lecture:
+		https://www.sciencedirect.com
+		
+	
+	Reference Books:
+		R2 - We can't get PDF
+		
+	Text Books:
+		T3,T4 - Recommended to buy
+
+
+	2 weeks of time for accessing eLibrary.
+
+
+	Quizzes: MCQs [Duration : 1 hr]
+
+	Assignments(1 and 2): 
+		Programming (each assignment has 4 weeks of time to complete)
+	
+	
+	Mid-Sem [2.5 hrs] - First 8 Sessions
+	Comprehensive [3 hrs] - Whole 16 Sessions
+	
+	
+	PPTs will be shared through LMS(Canvas) portal.
+	
+	
+	LAB:
+		Python / Jupyter Notebook / Google Colab
+	
+	Data Engineer
+	Data Administrator
+	Machine Learning Engineer - creating Pattern
+	
+	
+	Uncovering Insights - helps to make some decision.
+	
+	
+	
+	Inputs -> Raw Materials is DATA
+	
+	Outputs -> Insights
+	
+	Data Science is the Process of using the data to understand different things
+	
+	
+	Realtime Example:
+	
+	LAYS Chips
+	
+		Inputs:  Potato, Spice Mix 
+		
+		Process: Washing the Potato, Discarding, Slicing, Adding Spice Mix, Packaging
+		
+		Output: LAYS Chips in Pocket.
+		
+		
+	Cleaned Data: Preprocessed Data
+	
+
+
+	Why do I need Data Science in my domain Telecom?
+		
+		To solve certain Business Requirements - eg: attaining More PROFIT
+		
+		Customer Satisfaction.
+		
+		What our Business should to next.
+		
+		Strategies for Selling the products.
+		
+	
+	Algorithm: Steps of instruction to solve the problem. It can be PSEUDO CODE / Simple Steps in English.
+	
+	Eg: Processing the Queue in Movie Theatres.
+	
+	
+	
+	DS - AI - ML
+	
+		DS - it uses some of the algorithms from ML.
+		
+		
+		ML - Is part of Artificial Intelligence.
+			- SVM
+			- kNN
+			- Deep Learning
+			
+			eg: Product Recommendation in Amazon
+		
+		
+		AI - to make the machine to think like a Human.
+		
+			eg: Facial Recognition, Automatic Driving Car, Chat Bot
+
+		
+		
+	Data Science in Real time Application:
+	
+		Facebook
+		Amazon
+			Product Recommendation.  [through product bought, Rating which we given]
+			Shipping Anticipation.
+			Detecting the Fradulent Sellers and Buyers.
+		Bank of America
+			To improve the Customer Experience.
+		Spotify
+			Music Recommendation.
+		
+		
