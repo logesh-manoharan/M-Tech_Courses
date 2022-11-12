@@ -1,0 +1,12 @@
+## Data Structures And Algorithms Design
+
+# Day 1
+
+Concepts Seen:
+
+	Algorithms
+	Pseudo Code
+	Primitive Operations
+	Time complexity calculation
+	
+	
