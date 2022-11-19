@@ -1,0 +1,69 @@
+## Introduction to Data Science
+
+# DAY - 2
+
+Challenges in Data Science:
+	
+	
+	
+
+Roles in Data Science:
+	- Chief Data
+	- Data Analyst - analysing the data using some programming      languages R, Python etc.,
+	- Business Analyst - help the Data analyst
+	- Data Scientist - Data mining, ML
+		. Machine Learning Engineer
+		. Data Journalist - Skills: SQL, Python, R, Scala, Tableau etc.,
+	- Data Architect - ensures Integrity
+	- Data Engineer - Hardware parts(Storage Capacity)
+	- Application / Data Visualization engineer
+	
+	
+	
+	Does my organisation has all this roles?
+			Depends on the volume of the work.
+			
+			Totally dependent on Data Analytics all these roles will be present.
+			
+
+Data Scientist:
+
+	 For Analysis
+
+	 For Building   
+			
+	
+	Skills required for Data Scientist:
+	
+		Communicative
+		Qualitative
+		Technical
+		Skeptical
+		Creative - Telling story
+		Curious
+		....
+		
+		
+	Tools available for Data Scientist:
+	
+	
+	
+	Algorithms for a Data Scientist:
+	
+		K-Means Clustering - IDS
+		Logistic Regression
+		Linear Regression - ML
+		Apriori - DS
+		Decision tree
+		ANN - DL
+		SVM - ML
+		PCA - MFDS(Mass Flow Detection System)
+	
+
+		!!Depending on the Problems Data Scientist should choose the appropriate TOOLS and ALGORITHMS
+		
+		
+		
+		
+		
+	
