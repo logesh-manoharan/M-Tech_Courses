@@ -28,9 +28,9 @@ Roles in Data Science:
 
 Data Scientist:
 
-	 For Analysis
-
-	 For Building   
+	Classified based on Purpose:
+		- For Analysis
+		- For Building   
 			
 	
 	Skills required for Data Scientist:
@@ -63,6 +63,147 @@ Data Scientist:
 		!!Depending on the Problems Data Scientist should choose the appropriate TOOLS and ALGORITHMS
 		
 		
+	Organisation of DS Team:
+		- Centralised
+		- Decentralised
+		- Consulting
+		- Center of Excellence
+		
+	Software Engineering Techniques:
+		- WaterFall Modal -> Sequential
+		- Iterative Modal -> Iterative
+		- Agile Method
+			. CI / CD (Continuous Integration and COntinuous Development)
+			. Getting continuos feedback from the End User/ Customer / Client
+			. Client no need to wait for entire implementation.
+			. Entire product will be much better. Since, client is interacting more.
+			. Safe
+			
+	
+	Data Science Life Cycle:
+	
+	
+	
+	Data Science vs Software Engineering:
+	
+		- In Data Science, We are dealing Data against the Software.
+		- Process oriented life cycle
+		
+	
+	
+	DataOPS - for Data Management
+	
+		Includes,
+			DevOPS
+			Agile
+			Lean Manufaturing (reducing wastes)
+	
+		Data Analytics Pipeline: 
+			Data Ingestion -> Data Transformation -> Analysis -> Visualization
+
+		Data Ingestion: collect, clean(prepare), store
+			
+		Tasks:
+			Preparation
+			Feature Engg
+			Modeling
+			Evaluation
+			
+		Managers of Data - Data engineer, ,Architect etc.,
+		
+		Customers/ Consumers of Data - Data Analyzt, BI Team
+		
+		
+	DataOPS Examples:
+	
+		Movie release on Every Friday.
+			- Did anyone attaching the Movie details to the Specific Actor or Dirators Movie list ?
+		Dashboards of COVID news gets changes in every Hour. 
+			- Did every anyone is updating the data ?
+		
+		
+		Automation is needed there. (Data Analytics Pipeline)
+		
+		How much of Data Automations needed was decided by DataOPS Engineer.
+		
+		
+	Teams involved in DataOPS:
+		Data Manager
+		Data Consumers
+		DevOPS (Deployments)
+		
+		
+
+
+	MLOps:  (Totally different from DataOPS)
+		
+		Training  -> MODEL  -> Predictions
+		
+		
+	
+		DataOPS -> MLOps
+		
+		
+
+
+
+	Data Analytics:
+		
+		- To predict something - predicting the RAIN FALL
+		- To find patterns in the data - top 10 songs, movies, most searched news. 
+		- To find the relationships in the Data - finding similar things(images, news articles)
+		
+	
+	Analytics Tasks:
+	
+		- Descriptive -> how much did it rain yesterday or one week back ?
+			Techniques:
+				Visualization - Histogram
+			
+		- Predictive  -> What will be rainfall next 5 days?
+			
+			- Looking into the Future
+			
+			Techniques:
+				Regression
+				Classification
+				Deep Learning Techiniques
+		
+		- Diagnostic  -> Figuring out what happended ?
+			Why did the FLOOD happended ?
+			
+			Asking WHY WHY WHY by looking into the PAST....?
+			
+			Identifying the relationship.
+			
+			Techniques/ Tools:
+				. Pattern Recognition
+				. Linear / Logistic Regression
+				. Neural Network
+				. Deep learning techniques
+				
+		- Prescriptive ->
+
+			What might happen if i do these things ?
+			
+			Take these decisions then it will happen for you. Like, Prescriptions while consulting the Doctor.
+			
+			
+			Use AI to improve Decision making
+			
+			eg: If it rains for 5 days in specific area, FLOOD may happen at that place. Please, take correct actions to prevent Flood and save peoples. 
+		
+			
+			
+		
+		
+		
+		
+		
+			
+	
+	
+	
 		
 		
 		
