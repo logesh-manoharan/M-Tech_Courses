@@ -1,0 +1,11 @@
+## IDS
+
+# DAY - 3
+
+Data:
+
+	Observations - Attributes or Futures - Meidcal Observations -> by using some attibutes we can decide the Person is having Diabetes or not. 
+	
+	Facts
+	
+	Figures
