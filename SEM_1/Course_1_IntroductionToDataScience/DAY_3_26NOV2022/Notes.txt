@@ -3,9 +3,95 @@
 # DAY - 3
 
 Data:
+	- collection of objects and their attributes
 
-	Observations - Attributes or Futures - Meidcal Observations -> by using some attibutes we can decide the Person is having Diabetes or not. 
+	Observations - Attributes or Features or Variables or Fields or Characteristics- Medical Observations -> by using some attibutes we can decide the Person is having Diabetes or not. 
+	
+		Relevant or Irrelevant features: (which Attribute is important)
+			
+			
 	
 	Facts
 	
 	Figures
+	
+	
+	
+	Properties of Attributes:
+		- Distinctiveness =, !=
+		- Order <, >, <=, >=
+		- Addition +, -
+		- Multiplication *, /
+	
+	
+	Types of Attributes:
+	
+		Numerical - ratio, interval (+, -)
+			- Ratio (*, /)
+				- Absolute ZERO(0) - absence of Property - some impossible values eg: 0 Kelvin is not possible at any place so it ABSOLUTE 0 but, [0 degree Celcius or FarenHeat, 0 gram weight, 0 Length] is not an Absolute ZERO.
+				
+			- Interval (+, -)
+				
+		Categorical 
+			- ordinal (grades, shirt size)[we will maintain ORDER] (>,<), eg: OrderBy GRADE 
+			- Nominal (eye colors) (=, !=)
+		
+		
+	Attributes by the Number of Values:
+		Discrete - Binaries
+		Continuous - Real Numbers (includes Floating Point Values too)
+		Asymmetric - mark the Presence with some value
+		
+		
+	How can we find the types of Data ?
+		By following 'what are all the operations we can do?'
+		
+		If we made any transformation, it should be valid.
+		
+	Based on the Operation:
+		Can I do Multiplication or Addition or Comparison ?
+		
+		
+	Exercise:
+		ID, Age, Gender, Course ID, CGPA, Grade
+		
+	
+	Sol:
+		ID - Nominal
+		Age - Ratio
+		Gender - Nominal
+		Course ID - Nominal
+		CGPA - Ratio
+		Grade - Ordinal
+	
+	
+		Discrete or Continuous ?
+			Discrete   - All the Categorical Data are DISCRETE - ID, Gender, CourseID, Grade
+			Continuous - Age, CGPA
+			
+	
+	Questions at last:
+		Can you please share some exercises to findout the type of Attributes ?
+		
+		
+	
+	DATA-SETS:
+			Types of DataSets:
+				Structured
+					Data type, Format, Structure
+					
+					it can be NULL
+					
+					eg: CSV, Spreadseets, RDBMS, 
+				Semi-Structured
+					eg: XML, HTML, JSON
+				Quasi-Structured
+				Unstructured
+			
+	
+		
+	
+		
+		
+	
+		
