@@ -1,5 +1,0 @@
-This is first stmt
-This is second stmt
-This is third stmt
-This is fourth stmt
-Appending content

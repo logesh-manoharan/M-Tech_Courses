@@ -1,0 +1,140 @@
+### IDS - DAY - 4
+
+
+
+Data Quality Index
+
+
+	Data Quality Isssues:
+	
+		Noise and outline - Random error(includes Typing Error) eg: Date value is having only Day and Month
+		
+		Inaccurate data - human or machine error. Error in Data transmission
+		
+		Inconsistent data - logical mistakes
+		
+		Missing data
+		
+		Duplicate data
+		
+		Orphaned data
+		
+		Text encoding errors
+		
+		Data that is biased
+		
+		
+			Find out the quality issues?
+			
+			
+	Data Model: (used to resolve the issues of Data QUality eg: using some binomial expression we can fillout the Missing Data)
+	
+		we will construct to understand the real world.
+		
+		
+		1 - Start with Expectation
+		2 - Compare the expectation with reality 
+		3 - Refining expectations
+			- Get different model or Data [ is selected model is having some mistakeso r wrong ]
+
+	
+	Skew Data - model should fit into the Skew Data. [tends towards particular set of values]
+	
+	
+	
+	
+	Class or Concept Description:
+		derived using,
+			- data characterization
+			- data discrimination
+			- both data characterization and discrimination
+			
+	Association Analyses:
+		
+	Prediction Analysis:
+	
+	Clustering: (grouping according to the characteristcis/behaviour - eg: group products)
+		 - grouping objects together
+		 
+		 
+	Data Pipeline	
+	
+		Why we build Data Pipeline?
+			we need to automate whenever we get the data with minimal human intervention
+			
+		Data Ingestion:
+			exctracting the data and loading it into the another source.
+
+				
+			ELT Pipeline - Extract -> Load -> Transform
+				Data Engineer -Extraction and Loading
+				Data Analyzt - Transform
+				
+			ETL - Extract -> Transform -> Load
+			
+		Orchestrating the Pipeline:
+			Many tools are there.
+			Sequencing the tasks.
+			
+			
+			
+			
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			
+			
+			
+			
+			
+			
+			Symmetric data and Skewed Data
+			
+			Mean - Mode = 3(Mean - Median)
+			
+			For Unimodel data:
+			
+				Skewed Data
+					- Positive (mode < median)
+					- Negative (mode > median)
+					
+					
+			
+			Data Dispersion Measures:
+				Ranges
+				Quantiles
+				Quartiles or Percentiles
+				Interquartile Range(IQR) - (Q3[3rd Quartile] - Q1[1st Quartile])
+				Five Number/ Five Point Summary [Minimum, Q1, Median, Q3, Maximum] - Box Plot Model
+				Variance
+				Standard Deviation
+				
+			How to calculate values for Quartile:
+			
+				eg: [1,2,3,4,5,6,7,8,9,10,12]
+				
+					Arrange the SET in ASCENDING Order first.
+					
+					N / 4 = 12 / 4 = 3  [take every 3rd element]
+					
+					Q1(3rd value) - 3, Q2(6th value) - 6, Q3() - 9, Q4 - 12
+					
+					IQR = Q3 - Q1 = 9 - 3 = 6
+				
+				
+		Data Preparation:
+		
+			Data Cleansing
+			
+			Data Transformation
+			
+			Combining data
+			

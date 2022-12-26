@@ -1,0 +1,22 @@
+### COSS
+
+# DAY - 2
+
+
+
+	1 K => 1024  (not 1000)
+	
+	
+	Hamming Code:
+	
+		2^K - 1 = M + K
+		
+			M - no of bits of Data Word.
+			K - 
+			
+	
+	Data Bits and Check Bits:
+	
+		PROBLEM in Note (Second Part of DataStructure note)
+			
+			
